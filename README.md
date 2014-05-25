@@ -1,7 +1,7 @@
 Getting and Cleaning Data project
 ============
 
-Dongyoon WEE. 
+Contributor: Dongyoon WEE. 
 
 This project was conducting according to the assignment of "Getting and Cleaning Data" in Coursera course.
 The purpose of the project is cleaning the data from wearable computing. 
@@ -20,7 +20,7 @@ The project consists of 5 stages as followings.
 
 The repo contains the following files :
 
-1. Readme.md : General information of the project
+1. README.md : General information of the project
 2. CodeBook.md : Descripions for variables, data, transformaions  
 3. run_analysis.R : The R file creating the tidy dataset
 
