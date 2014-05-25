@@ -1,8 +1,6 @@
 Getting and Cleaning Data project
 ============
 
-Contributor: Dongyoon WEE. 
-
 This project was conducting according to the assignment of "Getting and Cleaning Data" in Coursera course.
 The purpose of the project is cleaning the data from wearable computing. 
 
